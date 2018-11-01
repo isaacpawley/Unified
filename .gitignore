@@ -1,0 +1,32 @@
+### Laravel template
+/vendor
+/.idea
+/.vscode
+/.vagrant
+node_modules/
+npm-debug.log
+
+### Laravel 5
+app/storage/
+public/storage
+public/hot
+public/assets/css
+public/assets/js
+storage/*.key
+storage/logs/*
+.env.*.php
+.env.php
+.env
+*.lock
+Homestead.yaml
+Homestead.json
+
+###
+public/
+/public/
+yarn-error.log
+
+### Dev
+nbproject/
+nbproject/*
+

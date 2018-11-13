@@ -12,7 +12,7 @@ return [
     | any other location as required by the application or its packages.
     */
 
-    'name' => 'Laravel',
+    'name' => 'Unified Projects',
 
     /*
     |--------------------------------------------------------------------------
@@ -25,7 +25,7 @@ return [
     |
     */
 
-    'env' => env('APP_ENV', 'production'),
+    'env' => env('APP_ENV', 'development'),
 
     /*
     |--------------------------------------------------------------------------
@@ -51,12 +51,12 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'http://localhost'),
+    'url' => env('APP_URL', 'http://unifiedproject.local'),
 
     /**
      * Showing for demo purpose
      */
-    'is_demo' => env('IS_DEMO', false),
+    'is_demo' => env('IS_DEMO', true),
 
     /*
     |--------------------------------------------------------------------------

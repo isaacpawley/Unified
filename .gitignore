@@ -5,7 +5,6 @@
 /.vagrant
 node_modules/
 npm-debug.log
-
 ### Laravel 5
 app/storage/
 public/storage
@@ -20,13 +19,11 @@ storage/logs/*
 *.lock
 Homestead.yaml
 Homestead.json
-
 ###
 public/
 /public/
 yarn-error.log
-
 ### Dev
 nbproject/
 nbproject/*
-
+*.DS_Store
